@@ -1,0 +1,3 @@
+git add codemagic.yaml
+git commit -m "إضافة ملف codemagic.yaml لتمكين البناء السحابي"
+git push origin main
